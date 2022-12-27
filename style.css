@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(32, 32, 32);
+    color: white;
+  }
+  h2, b{
+    color: rgb(255, 207, 211);
+  }
+  a{
+    list-style: none;
+    margin: 10px;
+  }
+  
+  .container{
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+  }
+  .id{
+    display: inline-block;
+  }
+  .box{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color:red;
+    display: flex;
+
+  }
